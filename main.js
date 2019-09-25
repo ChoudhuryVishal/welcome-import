@@ -49,4 +49,4 @@ client.on('guildMemberRemove', member => {
 });
 
 // Log our bot in
-client.login(config.token);
+client.login(NjI2NDQ4NjU5NjU1MDMyODQ1.XYuPzg.YlWlNC74O7DvnZ56-dTI-UFYIz4);
