@@ -49,4 +49,4 @@ client.on('guildMemberRemove', member => {
 });
 
 // Log our bot in
-client.login(NjI2NDQ4NjU5NjU1MDMyODQ1.XYuPzg.YlWlNC74O7DvnZ56-dTI-UFYIz4);
+client.login("NjM5Njk4NTg3NDc0NzIyODI2.Xc5-eg.q8MGIqGeV6_G9A0iW4JKw48rwS4");
